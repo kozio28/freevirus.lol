@@ -4,6 +4,7 @@
 }
 
 body {
+    background-image: url('./images/bg.jpg');
     font-family: 'Poppins-Regular';
     background-color: #303030;
     color: #ffffff;
